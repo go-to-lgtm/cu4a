@@ -50,7 +50,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: rgb(153, 50, 204);
+    background-color: darkslategrey;
     background-size: cover;
     background-position: center;
     
